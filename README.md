@@ -39,3 +39,8 @@
 + <a href="http://www.kocw.net/home/search/kemView.do?kemId=1127838&ar=relateCourse"> 자료구조알고리즘이론을 보완한 운영체제 </a>
 + <a href="http://www.kocw.net/home/search/kemView.do?kemId=978503"> 운영체제(양희재 교수님) </a>
 + <a href="http://snui.snu.ac.kr/ocw/index.php?mode=view&id=623#class_room-tab"> 운영체제(홍성수 교수님) </a>
+
+## Practice Coding
++ <a href="https://www.codewars.com/users/sign_in"> codewars </a>
++ <a href="https://www.codecademy.com/ko/catalog/subject/all"> Code Academy </a>
+
