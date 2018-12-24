@@ -4,6 +4,7 @@
 + <a href="http://devanix.tistory.com/178?category=338572f"> Binary Hack 정리 </a>
 + <a href="http://www.hackerschool.org/"> Hacker school </a>
 
+
 ## Security Book
 + <a href="http://www.yes24.com/24/goods/67506900"> 머신 러닝을 활용한 컴퓨터 보안 </a>
 + <a href="http://www.yes24.com/24/goods/35013605?scode=032&OzSrank=1"> 네트워크 해킹과 보안 </a>
@@ -15,10 +16,17 @@
 ## Web
 + <a href="https://poiemaweb.com/"> Web Development Tutorial </a>
 + <a href="https://medium.com/@erish/python-django-clean-architecture-%EC%97%B0%EA%B5%AC%ED%95%98%EA%B8%B0-591d7a555059"> Django Clean Architecture 연구하기 </a>
++ <a href="https://speakerdeck.com/nigayo/uahan-jabaseukeuribteu-gaebal?slide=19"> 우아한 자바스크립트 </a>
++ <a href="https://django-orm-cookbook-ko.readthedocs.io/en/latest/"> Django ORM 요리책 </a>
++ <a href="https://book.coalastudy.com/python-django/"> Django Study </a>
 
 
-## UX
+## 칼럼
 + <a href="https://brunch.co.kr/@kakao-it/279"> 다음 웹툰의 UX 개편 이야기 </a>
++ <a href="https://brunch.co.kr/@kakao-it/278"> 카카오뱅크 모바일앱 개발 이야기 </a>
++ <a href="https://www.youtube.com/watch?v=cX8n7pRA670"> Flask vs Django </a>
++ <a href="https://blog.naver.com/PostView.nhn?blogId=atelierjpro&logNo=221281440983&redirect=Dlog&widgetTypeCall=true"> 포인터 넌 누구냐 </a>
++ <a href="https://sujinlee.me/professional-github/"> 깃허브로 취업하기</a>
 
 
 ## Architecture
