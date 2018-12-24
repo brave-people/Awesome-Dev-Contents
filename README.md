@@ -43,4 +43,5 @@
 ## Practice Coding
 + <a href="https://www.codewars.com/users/sign_in"> codewars </a>
 + <a href="https://www.codecademy.com/ko/catalog/subject/all"> Code Academy </a>
++ <a href="http://code.activestate.com/recipes/langs/python/?query_start=1 "> Python Example </a>
 
