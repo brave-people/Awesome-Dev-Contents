@@ -3,6 +3,7 @@
 + <a href="https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf"> Kali Linux offical tranning PDF </a>
 + <a href="http://devanix.tistory.com/178?category=338572f"> Binary Hack 정리 </a>
 + <a href="http://www.hackerschool.org/"> Hacker school </a>
++ <a href="https://www.slideshare.net/deview/131-119007645"> 해커의 관점에서 바라보기  </a>
 
 
 ## Security Book
@@ -12,6 +13,7 @@
 
 ## Git
 + <a href="https://learngitbranching.js.org/index.html?demo"> Web으로 배우는 Git </a>
+
 
 ## Web
 + <a href="https://poiemaweb.com/"> Web Development Tutorial </a>
@@ -40,6 +42,7 @@
 + <a href="http://www.kocw.net/home/search/kemView.do?kemId=978503"> 운영체제(양희재 교수님) </a>
 + <a href="http://snui.snu.ac.kr/ocw/index.php?mode=view&id=623#class_room-tab"> 운영체제(홍성수 교수님) </a>
 + <a href="http://www.kocw.net/home/search/kemView.do?kemId=1169634"> 컴퓨터 네트워크 </a>
+
 
 ## Practice Coding
 + <a href="https://www.codewars.com/users/sign_in"> codewars </a>
