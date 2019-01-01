@@ -49,5 +49,10 @@
 + <a href="https://www.codecademy.com/ko/catalog/subject/all"> Code Academy </a>
 + <a href="http://code.activestate.com/recipes/langs/python/?query_start=1 "> Python Example </a>
 
+
+## AI
++ <a href="https://inst.eecs.berkeley.edu/~cs188/fa18/">Introduction to AI - UC Berkeley </a>
+
+
 ## Network
 + <a href="https://www.9tut.com/"> CCNA Study </a>
