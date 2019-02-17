@@ -29,6 +29,10 @@
 + <a href="https://www.youtube.com/watch?v=cX8n7pRA670"> Flask vs Django </a>
 + <a href="https://blog.naver.com/PostView.nhn?blogId=atelierjpro&logNo=221281440983&redirect=Dlog&widgetTypeCall=true"> 포인터 넌 누구냐 </a>
 + <a href="https://sujinlee.me/professional-github/"> 깃허브로 취업하기</a>
++ <a href="https://tinkerbellbass.tistory.com/40?fbclid=IwAR3IDuO8JIHQZ58CgJ0_aFbcEwCyrCUhYXSnaEBhhmAbxocY1OwY66uwM-Y">SpringMVC 프레임워크 동작 방식</a>
++ <a href="http://www.bloter.net/archives/271078"> 기억해두세요, 최고의 C++ 강의 5개 </a>
++ <a href="https://www.slideshare.net/ssuser67b08e/1-105671213"> 서버리스에 람다 대해 알아보자 [이론편] - 1 </a>
++ <a href="https://github.com/codeengn/codeengn_conference"> codeengn conference </a>
 
 
 ## Architecture
@@ -42,12 +46,15 @@
 + <a href="http://www.kocw.net/home/search/kemView.do?kemId=978503"> 운영체제(양희재 교수님) </a>
 + <a href="http://snui.snu.ac.kr/ocw/index.php?mode=view&id=623#class_room-tab"> 운영체제(홍성수 교수님) </a>
 + <a href="http://www.kocw.net/home/search/kemView.do?kemId=1169634"> 컴퓨터 네트워크 </a>
++ <a href="https://olc.kr/course/course_online_view.jsp?id=35&s_keyword=kernel&x=0&y=0"> Kernel of linux(고건 교수님) </a>
++ <a href="https://books-and-cows.gitbook.io/-linux-kernel-lecture-note/1"> Kernel of linux(고건 교수님) 강의 노트 </a>
 
 
 ## Practice Coding
 + <a href="https://www.codewars.com/users/sign_in"> codewars </a>
 + <a href="https://www.codecademy.com/ko/catalog/subject/all"> Code Academy </a>
 + <a href="http://code.activestate.com/recipes/langs/python/?query_start=1 "> Python Example </a>
++ <a href="http://opensource.kofac.re.kr/edu/detail_view.do?aIdx=50 ">ODIY-아두이노 </a>
 
 
 ## AI
