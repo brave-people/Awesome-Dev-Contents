@@ -4,6 +4,8 @@
 + <a href="http://devanix.tistory.com/178?category=338572f"> Binary Hack 정리 </a>
 + <a href="http://www.hackerschool.org/"> Hacker school </a>
 + <a href="https://www.slideshare.net/deview/131-119007645"> 해커의 관점에서 바라보기  </a>
++ <a href="https://www.kevinlondon.com/2015/07/26/dangerous-python-functions.html"> 파이썬 취약함수 </a>
+
 
 
 ## Security Book
@@ -63,3 +65,9 @@
 
 ## Network
 + <a href="https://www.9tut.com/"> CCNA Study </a>
+
+
+## Algorithm
++ <a href="https://www.notion.so/580c3a42f21b49b497b7089f539a9f78"> 코딩테스트 문제 추천 </a>
+
+
