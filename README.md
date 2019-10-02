@@ -35,6 +35,10 @@
 + <a href="http://www.bloter.net/archives/271078"> 기억해두세요, 최고의 C++ 강의 5개 </a>
 + <a href="https://www.slideshare.net/ssuser67b08e/1-105671213"> 서버리스에 람다 대해 알아보자 [이론편] - 1 </a>
 + <a href="https://github.com/codeengn/codeengn_conference"> codeengn conference </a>
++ <a href="https://docs.google.com/presentation/d/1D6Y7wjZiyeHpFXnF70MQygiCwgxM0TBeCSd70rOeGmo/edit?fbclid=IwAR1tJZXqns4u33FspHIIWx8AMTdliDNMeP-ewHxahidyWgbsBjhiA77WMbY#slide=id.p"> 채팅서버로 알아보는 C++의 기술들 </a>
++ <a href="https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU"> Typescript Basic </a>
++ <a href="https://evan-moon.github.io/2019/09/19/sync-async-blocking-non-blocking/index.html"> 동기(Synchronous)는 정확히 무엇을 의미하는걸까? </a>
+
 
 
 ## Architecture
@@ -59,6 +63,8 @@
 + <a href="http://opensource.kofac.re.kr/edu/detail_view.do?aIdx=50 ">ODIY-아두이노 </a>
 
 
+
+
 ## AI
 + <a href="https://inst.eecs.berkeley.edu/~cs188/fa18/">Introduction to AI - UC Berkeley </a>
 
@@ -70,4 +76,7 @@
 ## Algorithm
 + <a href="https://www.notion.so/580c3a42f21b49b497b7089f539a9f78"> 코딩테스트 문제 추천 </a>
 + <a href="https://www.hackerearth.com/practice/">hackerearth</a>
+
+## 취업
++ <a href="https://hl1itj.tistory.com/90"> 자기소개 작성법 </a>
 
