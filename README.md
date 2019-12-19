@@ -77,6 +77,15 @@
 + <a href="https://www.notion.so/580c3a42f21b49b497b7089f539a9f78"> 코딩테스트 문제 추천 </a>
 + <a href="https://www.hackerearth.com/practice/">hackerearth</a>
 
+
+## GCP 
++ <a href="https://www.notion.so/580c3a42f21b49b497b7089f539a9f78"> (정보)16.구글 클라우드 자격증 공부법-2019 </a>
++ <a href="https://coffeewhale.com/certificate/gcp/2019/07/07/gcp-cea/"> Google Certified Cloud Engineer Associate 취득 후기 </a>
++ <a href="https://reoim.tistory.com/entry/%ED%81%B4%EC%95%8C%EB%AA%BB%EC%97%90%EC%84%9C-AWS-%EC%9D%B4%EC%A7%81%EA%B9%8C%EC%A7%80"> 클라우드알못에서 AWS 이직까지 </a>
+
+
+
 ## 취업
 + <a href="https://hl1itj.tistory.com/90"> 자기소개 작성법 </a>
+
 
