@@ -65,6 +65,7 @@
 
 
 
+
 ## AI
 + <a href="https://inst.eecs.berkeley.edu/~cs188/fa18/">Introduction to AI - UC Berkeley </a>
 
@@ -82,7 +83,7 @@
 + <a href="https://www.notion.so/580c3a42f21b49b497b7089f539a9f78"> (정보)16.구글 클라우드 자격증 공부법-2019 </a>
 + <a href="https://coffeewhale.com/certificate/gcp/2019/07/07/gcp-cea/"> Google Certified Cloud Engineer Associate 취득 후기 </a>
 + <a href="https://reoim.tistory.com/entry/%ED%81%B4%EC%95%8C%EB%AA%BB%EC%97%90%EC%84%9C-AWS-%EC%9D%B4%EC%A7%81%EA%B9%8C%EC%A7%80"> 클라우드알못에서 AWS 이직까지 </a>
-
++ <a href="https://reoim.tistory.com/entry/Google-Cloud-Certified-Associate-Cloud-Engineer-%ED%9B%84%EA%B8%B0?category=830179"> GCP 자격증 후기 (Google Cloud Certified Associate Cloud Engineer) </a>
 
 
 ## 취업
