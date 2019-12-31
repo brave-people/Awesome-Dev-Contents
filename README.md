@@ -38,6 +38,8 @@
 + <a href="https://docs.google.com/presentation/d/1D6Y7wjZiyeHpFXnF70MQygiCwgxM0TBeCSd70rOeGmo/edit?fbclid=IwAR1tJZXqns4u33FspHIIWx8AMTdliDNMeP-ewHxahidyWgbsBjhiA77WMbY#slide=id.p"> 채팅서버로 알아보는 C++의 기술들 </a>
 + <a href="https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU"> Typescript Basic </a>
 + <a href="https://evan-moon.github.io/2019/09/19/sync-async-blocking-non-blocking/index.html"> 동기(Synchronous)는 정확히 무엇을 의미하는걸까? </a>
++ <a href="https://www.slideshare.net/EunhyangKim2/3-83645788"> 스타트업 인턴 개발자 3달간의 고군분투기 김은향 </a>
+
 
 
 
