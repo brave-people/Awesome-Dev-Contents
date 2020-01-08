@@ -1,3 +1,6 @@
+[![HitCount](http://hits.dwyl.io/KoEonYack/Study-Url.svg)](http://hits.dwyl.io/KoEonYack/Study-Url)
+
+
 ## Security
 + <a href="https://kali.training/"> Kali Linux offical tranning </a>
 + <a href="https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf"> Kali Linux offical tranning PDF </a>
