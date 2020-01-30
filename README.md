@@ -118,6 +118,10 @@
 + <a href="https://reoim.tistory.com/entry/Google-Cloud-Certified-Associate-Cloud-Engineer-%ED%9B%84%EA%B8%B0?category=830179"> GCP 자격증 후기 (Google Cloud Certified Associate Cloud Engineer) </a>
 
 
+## 경력직의 조언
+- [신입 개발자 생활백서 [개정판]](https://www.slideshare.net/jayjin0427/ss-71896768)
+
+
 ## 취업
 + <a href="https://hl1itj.tistory.com/90"> 자기소개 작성법 </a>
 
