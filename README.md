@@ -53,7 +53,7 @@
 + <a href="https://speakerdeck.com/nigayo/uahan-jabaseukeuribteu-gaebal?slide=19"> 우아한 자바스크립트 </a>
 + <a href="https://django-orm-cookbook-ko.readthedocs.io/en/latest/"> Django ORM 요리책 </a>
 + <a href="https://book.coalastudy.com/python-django/"> Django Study </a>
-
++ <a href="https://nachwon.github.io/django-deploy-1-aws/"> Django AWS 배포방법 </a>
 
 ## 칼럼
 + <a href="https://brunch.co.kr/@kakao-it/279"> 다음 웹툰의 UX 개편 이야기 </a>
