@@ -69,7 +69,8 @@
 + <a href="https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU"> Typescript Basic </a>
 + <a href="https://evan-moon.github.io/2019/09/19/sync-async-blocking-non-blocking/index.html"> 동기(Synchronous)는 정확히 무엇을 의미하는걸까? </a>
 + <a href="https://www.slideshare.net/EunhyangKim2/3-83645788"> 스타트업 인턴 개발자 3달간의 고군분투기 김은향 </a>
-
++ <a href="https://medium.com/dataseries/rsa-cryptography-behind-the-scenes-fee1e1389f7f"> RSA Cryptography Behind the Scenes </a>
++ <a href="https://medium.com/dataseries/a-crash-course-in-everything-cryptographic-50daa0fda482"> A Crash Course in Everything Cryptographic </a>
 
 
 
