@@ -71,6 +71,8 @@
 + <a href="https://www.slideshare.net/EunhyangKim2/3-83645788"> 스타트업 인턴 개발자 3달간의 고군분투기 김은향 </a>
 + <a href="https://medium.com/dataseries/rsa-cryptography-behind-the-scenes-fee1e1389f7f"> RSA Cryptography Behind the Scenes </a>
 + <a href="https://medium.com/dataseries/a-crash-course-in-everything-cryptographic-50daa0fda482"> A Crash Course in Everything Cryptographic </a>
++ <a href="https://evan-moon.github.io/2020/04/07/about-restful-api/"> 프론트엔드와 백엔드가 소통하는 엔드포인트, RESTful API </a>
+
 
 
 
