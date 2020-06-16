@@ -127,5 +127,8 @@
 
 ## 취업
 + <a href="https://hl1itj.tistory.com/90"> 자기소개 작성법 </a>
++ <a href="https://brunch.co.kr/@hee072794/132?fbclid=IwAR2j9vzf6DTS4IMYV3baYZhrLV51UZoDgl2cRcJjN_xaXsVbs_XIIt9fQ34"> 개발자 이력서 작성하기 </a>
+
+
 
 
