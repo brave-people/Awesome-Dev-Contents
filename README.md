@@ -123,7 +123,7 @@
 
 ## 경력직의 조언
 - [신입 개발자 생활백서 [개정판]](https://www.slideshare.net/jayjin0427/ss-71896768)
-
+- [인턴상륙작전 - 레이니스트](https://speakerdeck.com/soyoung210/inteonsangryugjagjeon?slide=2)
 
 ## 취업
 + <a href="https://hl1itj.tistory.com/90"> 자기소개 작성법 </a>
