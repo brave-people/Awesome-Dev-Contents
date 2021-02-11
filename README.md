@@ -1,29 +1,5 @@
 
-<!--
-<p><a href="https://class101-ui.netlify.com" target="_blank" rel="noopener noreferrer"><img width="128" src="https://s3.ap-northeast-2.amazonaws.com/class101-ui/images/logo-class101.png" alt="C"></a></p>
-
-<p>
-  <a href="https://www.npmjs.com/package/@class101/ui">
-    <img
-      src="https://img.shields.io/npm/v/@class101/ui.svg"
-      alt="npm"
-    >
-  </a>
-  <a href="https://github.com/pedaling/class101-ui/blob/master/LICENSE">
-    <img
-      src="https://img.shields.io/github/license/mashape/apistatus.svg"
-      alt="MIT"
-    >
-  </a>
-  <a href="https://class101-ui.netlify.com">
-    <img
-      src="https://img.shields.io/readthedocs/pip.svg"
-      alt="docs"
-    >
-  </a>
-</p>
--->
-
+# Awesome Dev Study 
 
 [![HitCount](http://hits.dwyl.io/KoEonYack/Study-Url.svg)](http://hits.dwyl.io/KoEonYack/Study-Url)
 
@@ -45,6 +21,8 @@
 
 ## Git
 + <a href="https://learngitbranching.js.org/index.html?demo"> Web으로 배우는 Git </a>
++ <a href="htts://walbatrossw.github.io/git/2019/03/10/git-commit-message-convention.html"> Git - Commit Message Convention </a> #커밋 메시지 #유다시티 스타일
++ ᴇɴɢ <a href="https://learngitbranching.js.org/index.html?demo"> Visualizing Git Concepts with D3 </a> #Git #시각화
 
 
 ## Web
@@ -54,6 +32,8 @@
 + <a href="https://django-orm-cookbook-ko.readthedocs.io/en/latest/"> Django ORM 요리책 </a>
 + <a href="https://book.coalastudy.com/python-django/"> Django Study </a>
 + <a href="https://nachwon.github.io/django-deploy-1-aws/"> Django AWS 배포방법 </a>
+
+
 
 ## 칼럼
 + <a href="https://brunch.co.kr/@kakao-it/279"> 다음 웹툰의 UX 개편 이야기 </a>
@@ -75,9 +55,9 @@
 
 
 
-
 ## Architecture
 + <a href="https://www.crocus.co.kr/category/Programing%20Etc./Assembly"> MIPS </a>
+
 
 
 ## KOCW Study
@@ -91,6 +71,7 @@
 + <a href="https://books-and-cows.gitbook.io/-linux-kernel-lecture-note/1"> Kernel of linux(고건 교수님) 강의 노트 </a>
 
 
+
 ## Practice Coding
 + <a href="https://www.codewars.com/users/sign_in"> codewars </a>
 + <a href="https://www.codecademy.com/ko/catalog/subject/all"> Code Academy </a>
@@ -99,19 +80,24 @@
 
 
 
-
-
 ## AI
 + <a href="https://inst.eecs.berkeley.edu/~cs188/fa18/">Introduction to AI - UC Berkeley </a>
+
 
 
 ## Network
 + <a href="https://www.9tut.com/"> CCNA Study </a>
 
 
+
 ## Algorithm
 + <a href="https://www.notion.so/580c3a42f21b49b497b7089f539a9f78"> 코딩테스트 문제 추천 </a>
 + <a href="https://www.hackerearth.com/practice/">hackerearth</a>
+
+
+
+## Java
++ <a href="https://doublesprogramming.tistory.com/243?category=736878"> effective java 요약 </a>
 
 
 ## GCP 
@@ -121,14 +107,17 @@
 + <a href="https://reoim.tistory.com/entry/Google-Cloud-Certified-Associate-Cloud-Engineer-%ED%9B%84%EA%B8%B0?category=830179"> GCP 자격증 후기 (Google Cloud Certified Associate Cloud Engineer) </a>
 
 
-## 경력직의 조언
+
+## 선배님의 조언
 - [신입 개발자 생활백서 [개정판]](https://www.slideshare.net/jayjin0427/ss-71896768)
 - [인턴상륙작전 - 레이니스트](https://speakerdeck.com/soyoung210/inteonsangryugjagjeon?slide=2)
+
+
 
 ## 취업
 + <a href="https://hl1itj.tistory.com/90"> 자기소개 작성법 </a>
 + <a href="https://brunch.co.kr/@hee072794/132?fbclid=IwAR2j9vzf6DTS4IMYV3baYZhrLV51UZoDgl2cRcJjN_xaXsVbs_XIIt9fQ34"> 개발자 이력서 작성하기 </a>
 
 
-
-
+## 디자인 
++ <a href="https://wormwlrm.github.io/2020/12/27/Refatoring-Logo-with-Figma.html?fbclid=IwAR2pJYV1M1roO5N6QogL8vkzHhAk4Bfxeoxs40qqjxKUjDqCLD18eDKtkRk"> 주니어 개발자가 Figma로 로고 디자인 해본 썰 </a>
