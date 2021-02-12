@@ -4,25 +4,8 @@
 [![HitCount](http://hits.dwyl.io/KoEonYack/Study-Url.svg)](http://hits.dwyl.io/KoEonYack/Study-Url)
 
 
+
 ## Security
-+ <a href="https://kali.training/"> Kali Linux offical tranning </a>
-+ <a href="https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf"> Kali Linux offical tranning PDF </a>
-+ <a href="http://devanix.tistory.com/178?category=338572f"> Binary Hack 정리 </a>
-+ <a href="http://www.hackerschool.org/"> Hacker school </a>
-+ <a href="https://www.slideshare.net/deview/131-119007645"> 해커의 관점에서 바라보기  </a>
-+ <a href="https://www.kevinlondon.com/2015/07/26/dangerous-python-functions.html"> 파이썬 취약함수 </a>
-
-
-
-## Security Book
-+ <a href="http://www.yes24.com/24/goods/67506900"> 머신 러닝을 활용한 컴퓨터 보안 </a>
-+ <a href="http://www.yes24.com/24/goods/35013605?scode=032&OzSrank=1"> 네트워크 해킹과 보안 </a>
-
-
-+ <a href=""> </a>
-+ <a href=""> </a>
-+ <a href=""> </a>
-+ <a href=""> </a>
 
 
 
@@ -65,7 +48,6 @@
 + <a href="https://medium.com/dataseries/rsa-cryptography-behind-the-scenes-fee1e1389f7f"> RSA Cryptography Behind the Scenes </a>
 + <a href="https://medium.com/dataseries/a-crash-course-in-everything-cryptographic-50daa0fda482"> A Crash Course in Everything Cryptographic </a>
 + <a href="https://evan-moon.github.io/2020/04/07/about-restful-api/"> 프론트엔드와 백엔드가 소통하는 엔드포인트, RESTful API </a>
-
 
 
 ## Architecture

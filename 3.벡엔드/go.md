@@ -6,6 +6,9 @@
 - [Tour of Go](https://go-tour-kr.appspot.com/#8)
 - [Go와 객체지향](https://golangkorea.github.io/post/go-start/object-oriented/)
 - [Go 탬플릿과 템플릿 엔진](https://dksshddl.tistory.com/entry/Go-web-programming-템플릿과-템플릿-엔진) #Template
+- [컨테이너 내부 Go 애플리케이션 디버깅하기](https://mingrammer.com/debugging-containerized-go-app/)
+- [Golang algorithm](https://github.com/AI-Trolls/algorithm-with-golang)
+- [[Go로 구현하는 블록체인] Part 1: 기본 프로토타입](https://mingrammer.com/building-blockchain-in-go-part-1/)
 - ᴇɴɢ [Effective Go:](https://golang.org/doc/effective_go.html)
 - ᴇɴɢ [Secure Coding in Go](https://tutorialedge.net/golang/secure-coding-in-go-input-validation/)
 - ᴇɴɢ [Go CLI lint Action](https://github.com/golangci/golangci-lint-action) 
@@ -14,9 +17,14 @@
 - ᴇɴɢ [The Central Go Module Repository](https://search.gocenter.io)
 - ᴇɴɢ [Building a Real-Time YouTube Monitoring System with Go and WebSockets!](https://youtu.be/n3BQLHtsrkM) #Youtube
 - ᴇɴɢ [light IDE](https://code.google.com/archive/p/liteide/) #IDE
+- ᴇɴɢ [How to setup JWT Authorization for a GraphQL Server in Golang](https://pragmaticreviews.com/how-to-setup-jwt-authorization-for-a-graphql-server-in-golang/)
 
 
 ## Gin Go
+- [mysql curd (with Gin)](https://dejavuqa.tistory.com/331)
+- [Gin을 활용한 REST API 프로젝트](https://riptutorial.com/ko/go/example/29299/gin을-사용한-restfull-프로젝트-api)
+- [Go 기초 학습자료](https://snowdeer.github.io/blog/categories/#go) #채팅, 로그인
+- [Gin에서 Swagger 사용하기](https://dejavuqa.tistory.com/330)
 - ᴇɴɢ [Gin official example](https://github.com/gin-gonic/examples)
 - ᴇɴɢ [Golang / Go Gin Framework Crash Course 01 | Getting Started](https://www.youtube.com/watch?v=qR0WnWL2o1Q) #Youtube
 - ᴇɴɢ [10 Golang YouTube Channels for beginners & experienced Developers](https://blog.feedspot.com/golang_youtube_channels/)
@@ -24,10 +32,8 @@
 - ᴇɴɢ [Gin Web Framework. Gitbook](https://chenyitian.gitbooks.io/gin-web-framework/content/)
 - ᴇɴɢ [Gin HTTP Framework](https://www.youtube.com/playlist?list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w) #Youtube
 - ᴇɴɢ [MySql tutorial : Building RESTful APIs with the Gin framework](https://steemit.com/utopian-io/@elingmeyatmaja/building-restful-apis-with-the-gin-framework)
-- [mysql curd (with Gin)](https://dejavuqa.tistory.com/331)
-- [Gin을 활용한 REST API 프로젝트](https://riptutorial.com/ko/go/example/29299/gin을-사용한-restfull-프로젝트-api)
-- [Go 기초 학습자료](https://snowdeer.github.io/blog/categories/#go) #채팅, 로그인
-- [Gin에서 Swagger 사용하기](https://dejavuqa.tistory.com/330)
+- ᴇɴɢ [Using JWT for Authentication in a Golang Application](https://learn.vonage.com/blog/2020/03/13/using-jwt-for-authentication-in-a-golang-application-dr/)
+
 
 
 ## Test
@@ -41,7 +47,7 @@
 
 
 ## Github Code
-> Go를 잘활용한 프로젝트를 소개합니다.
+> Go 프로젝트를 소개합니다.
 
 - [ehernandez-xk / s3-file-upload](https://gist.github.com/ehernandez-xk/e151b69f5734c8e2d7e7347d79966bb9) #S3
 - [mcauto / todo-list-back](https://github.com/mcauto/todo-list-back) #CRUD
