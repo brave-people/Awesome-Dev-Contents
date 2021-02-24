@@ -85,3 +85,13 @@
 - [유틸리티](https://github.com/brave-people/Awesome-Dev-Study/blob/master/9.%EA%B8%B0%ED%83%80/util.md#%EC%9C%A0%ED%8B%B8)
 - [기술블로그 운영](https://github.com/brave-people/Awesome-Dev-Study/blob/master/9.%EA%B8%B0%ED%83%80/util.md#%EC%9C%A0%ED%8B%B8)
 - [스터디 모임](https://github.com/brave-people/Awesome-Dev-Study/blob/master/9.%EA%B8%B0%ED%83%80/util.md#%EC%8A%A4%ED%84%B0%EB%94%94-%EB%AA%A8%EC%9E%84)
+
+
+
+<br />
+<br />
+<div align=center>
+  <hr />
+    <h3> 용감한 친구들 with 남송리 삼번지 </h3>
+  <hr />
+</div>
