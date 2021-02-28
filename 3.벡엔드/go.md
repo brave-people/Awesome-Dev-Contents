@@ -9,6 +9,7 @@
 - [컨테이너 내부 Go 애플리케이션 디버깅하기](https://mingrammer.com/debugging-containerized-go-app/)
 - [Golang algorithm](https://github.com/AI-Trolls/algorithm-with-golang)
 - [[Go로 구현하는 블록체인] Part 1: 기본 프로토타입](https://mingrammer.com/building-blockchain-in-go-part-1/)
+- [The Ultimate Go Study Guide 한글 번역](https://github.com/ultimate-go-korean/translation)
 - ᴇɴɢ [Effective Go:](https://golang.org/doc/effective_go.html)
 - ᴇɴɢ [Secure Coding in Go](https://tutorialedge.net/golang/secure-coding-in-go-input-validation/)
 - ᴇɴɢ [Go CLI lint Action](https://github.com/golangci/golangci-lint-action) 
@@ -18,7 +19,7 @@
 - ᴇɴɢ [Building a Real-Time YouTube Monitoring System with Go and WebSockets!](https://youtu.be/n3BQLHtsrkM) #Youtube
 - ᴇɴɢ [light IDE](https://code.google.com/archive/p/liteide/) #IDE
 - ᴇɴɢ [How to setup JWT Authorization for a GraphQL Server in Golang](https://pragmaticreviews.com/how-to-setup-jwt-authorization-for-a-graphql-server-in-golang/)
-
+- ᴇɴɢ [Visualizing Concurrency in Go](https://divan.dev/posts/go_concurrency_visualize/)
 
 ## Gin Go
 - [mysql curd (with Gin)](https://dejavuqa.tistory.com/331)

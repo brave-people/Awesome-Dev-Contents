@@ -5,8 +5,10 @@
 
 [![author](https://img.shields.io/badge/author-covenant-brightgreen.svg?style=flat-square)](https://covenant.tistory.com/)
 [![HitCount](http://hits.dwyl.io/KoEonYack/Study-Url.svg)](http://hits.dwyl.io/KoEonYack/Study-Url)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/brave-people/Awesome-Dev-Contents/pulls)
+![Last commit](https://img.shields.io/github/last-commit/brave-people/Awesome-Dev-Contents?style=flat-square)
 
-좋은 글을 준비했어요! 차 ☕ 한잔과 함께 즐겨보세요.
+좋은 글들을 소개해드릴께요! 차 ☕ 한잔과 함께 즐겨보세요.
 
 </div>
 
