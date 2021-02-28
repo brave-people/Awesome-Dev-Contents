@@ -1,9 +1,16 @@
 
-# Awesome Dev Contents 
+<div align=center>
+<img src="./_raw/cover_lib.png" />
+<h1> Awesome Dev Contents </h1>
 
 [![author](https://img.shields.io/badge/author-covenant-brightgreen.svg?style=flat-square)](https://covenant.tistory.com/)
 [![HitCount](http://hits.dwyl.io/KoEonYack/Study-Url.svg)](http://hits.dwyl.io/KoEonYack/Study-Url)
 
+좋은 글을 준비했어요! 차 ☕ 한잔과 함께 즐겨보세요.
+
+</div>
+
+<br />
 
 ## 📓 Index
 
