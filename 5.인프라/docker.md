@@ -16,4 +16,5 @@
 - [[Docker] Docker 의 Load Balance 기능 사용하기](https://blog.naver.com/alice_k106/220747224965)
 - [Lightweight Linux Container Docker 를 활용하여 어플리케이션 배포하기](https://deview.kr/2013/detail.nhn?topicSeq=45)
 - [Docker: Manage Container](https://dirmathfl.tistory.com/114)
+- [클라우드 코딩 서비스 구름에서의 도커 컨테이너 활용 사례](https://www.slideshare.net/awskorea/codigm-aws-container-day)
 - ᴇɴɢ [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)

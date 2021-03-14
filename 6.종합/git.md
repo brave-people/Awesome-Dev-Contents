@@ -7,4 +7,5 @@
 + <a href="https://cheese10yun.github.io/github-proejct/"> Github로 프로젝트 관리하기 Part1 </a> #Issue 기반 branch # Issue template
 + <a href="https://ryan-han.com/post/etc/gitflow/"> Git으로 협업하는 방법 </a> # 현업 Git workflow
 + <a href="https://velog.io/@hidaehyunlee/Github로-협업하기"> Github로 협업 프로젝트 관리하기 </a> # Git workflow
+- [Gitflow 이해하기](https://www.stomx.net/entry/GitHub-Flow-이해하기-번역)
 + ᴇɴɢ <a href="https://learngitbranching.js.org/index.html?demo"> Visualizing Git Concepts with D3 </a> #Git #시각화
