@@ -4,7 +4,6 @@
 <h1> Awesome Dev Contents </h1>
 
 [![author](https://img.shields.io/badge/author-covenant-brightgreen.svg?style=flat-square)](https://covenant.tistory.com/)
-[![HitCount](http://hits.dwyl.io/KoEonYack/Study-Url.svg)](http://hits.dwyl.io/KoEonYack/Study-Url)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/brave-people/Awesome-Dev-Contents/pulls)
 ![Last commit](https://img.shields.io/github/last-commit/brave-people/Awesome-Dev-Contents?style=flat-square)
 
